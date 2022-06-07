@@ -15,10 +15,12 @@ Hi! My name is Denis and I am 27 years old. I am a civil engineer by profession.
 * Javascript (basic)
 * English (basic A1-A2)
 ## Code Example
-< function sum(a, b) {
+``` javascript
+function sum(a, b) {
 return a + b; 
 } let result = sum(1, 2);
-alert( result ); >
+alert( result );
+```
 # Education
 * BREST STATE TECHNICAL UNIVERSITY
 * front-end developer ( Georgy Dudarev course)
